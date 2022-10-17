@@ -2,7 +2,7 @@
 - 👋 Hello , my name is Ekele Enoch Monday ,and I am a Fullstack web developer who is  passionate about building the web! I am proficient in HTML,CSS , JavaScript, and Python Flask
 - 👀 I’m interested in creating solutions to real world problems and challenges programmatically 
 - 🌱 I’m currently learning  AngularJS, and ReactJS	
-- 💞️ I’m looking to working and  collaborating on Fullstack Flask projects and writing REST APIs 
+- 💞️ I’m looking forward to working and  collaborating on Fullstack Flask projects and writing REST APIs 
 - 📫 you can reach me via [email](enochekele5@gmail.com)
 
 # LANGUAGES AND TOOLS 
